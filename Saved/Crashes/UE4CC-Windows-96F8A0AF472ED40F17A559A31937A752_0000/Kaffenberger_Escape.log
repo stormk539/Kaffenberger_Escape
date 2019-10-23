@@ -1,0 +1,1189 @@
+﻿Log file open, 10/22/19 19:44:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Kaffenberger_Escape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065095
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.22-23.44.52:972][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.22-23.44.52:973][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.22-23.44.52:973][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.22-23.44.52:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:973][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:974][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-23.44.52:974][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-23.44.52:974][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-23.44.52:974][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-23.44.52:975][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-23.44.52:975][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-23.44.52:975][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.22-23.44.52:978][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.22-23.44.52:978][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.22-23.44.52:978][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-23.44.52:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.22-23.44.52:979][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Config/Windows/Engine.ini]
+[2019.10.22-23.44.52:980][  0]LogInit: Computer: NQSCGL-MSI-03
+[2019.10.22-23.44.52:980][  0]LogInit: User: skaffenb
+[2019.10.22-23.44.52:980][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.22-23.44.52:980][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.22-23.44.52:980][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.22-23.44.52:980][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.22-23.44.52:980][  0]LogMemory: Process Physical Memory: 100.86 MB used, 100.86 MB peak
+[2019.10.22-23.44.52:980][  0]LogMemory: Process Virtual Memory: 100.53 MB used, 100.53 MB peak
+[2019.10.22-23.44.52:980][  0]LogMemory: Physical Memory: 6921.34 MB used,  25791.19 MB free, 32712.53 MB total
+[2019.10.22-23.44.52:980][  0]LogMemory: Virtual Memory: 4668.52 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.22-23.44.52:982][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.22-23.44.53:000][  0]LogInit: Using OS detected language (en-US).
+[2019.10.22-23.44.53:000][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.22-23.44.53:001][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.22-23.44.53:149][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.22-23.44.53:178][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.22-23.44.53:178][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.22-23.44.53:384][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-23.44.53:384][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.22-23.44.53:455][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.22-23.44.53:455][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.22-23.44.53:457][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.22-23.44.53:458][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.22-23.44.53:458][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.22-23.44.53:466][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.22-23.44.53:466][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.22-23.44.53:466][  0]LogWindows: EnumDisplayDevices:
+[2019.10.22-23.44.53:466][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.22-23.44.53:466][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.22-23.44.53:466][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.22-23.44.53:467][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.22-23.44.53:467][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.22-23.44.53:467][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.22-23.44.53:467][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.10.22-23.44.53:467][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.10.22-23.44.53:467][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.22-23.44.53:504][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.22-23.44.53:515][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.22-23.44.53:887][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.22-23.44.53:896][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.22-23.44.53:904][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.22-23.44.53:915][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.22-23.44.53:924][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.22-23.44.53:934][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.22-23.44.53:944][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.22-23.44.53:952][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.22-23.44.53:957][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.22-23.44.53:986][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.22-23.44.53:988][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.22-23.44.54:004][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.22-23.44.54:004][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.22-23.44.54:017][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.22-23.44.54:017][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.22-23.44.54:024][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.22-23.44.54:030][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.22-23.44.54:037][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.22-23.44.54:044][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.22-23.44.54:067][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.22-23.44.54:067][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.22-23.44.54:067][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.22-23.44.54:075][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.22-23.44.54:126][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Intermediate/Shaders/WorkingDirectory/12028/).
+[2019.10.22-23.44.54:126][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/skaffenb/AppData/Local/Temp/UnrealShaderWorkingDir/16D16EBE44FF4BA64B1FEC81555F04E5/'.
+[2019.10.22-23.44.54:129][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.22-23.44.54:129][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.22-23.44.54:129][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.22-23.44.54:678][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.22-23.44.54:723][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/skaffenb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.22-23.44.54:723][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/skaffenb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.22-23.44.54:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.22-23.44.54:723][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.22-23.44.54:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-23.44.54:723][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.22-23.44.54:732][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.22-23.44.54:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-23.44.54:733][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.22-23.44.54:734][  0]LogDerivedDataCache: Using Local data cache path C:/Users/skaffenb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.22-23.44.54:734][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.22-23.44.54:734][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.22-23.44.54:752][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.22-23.44.54:754][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.22-23.44.54:755][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.22-23.44.54:816][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.10.22-23.44.55:051][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-23.44.55:178][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.22-23.44.55:178][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.22-23.44.55:178][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.22-23.44.55:178][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.22-23.44.55:178][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.22-23.44.55:186][  0]LogNetVersion: Kaffenberger_Escape 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2668543594)
+[2019.10.22-23.44.55:526][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.037248 seconds
+[2019.10.22-23.44.55:531][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.22-23.44.55:532][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.22-23.44.55:532][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.22-23.44.56:382][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.22-23.44.56:384][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.22-23.44.56:433][  0]SourceControl: Source control is disabled
+[2019.10.22-23.44.56:433][  0]SourceControl: Source control is disabled
+[2019.10.22-23.44.56:434][  0]SourceControl: Source control is disabled
+[2019.10.22-23.44.56:435][  0]SourceControl: Source control is disabled
+[2019.10.22-23.44.56:442][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-23.44.56:443][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-23.44.56:516][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.22-23.44.56:702][  0]LogOcInput: OculusInput pre-init called
+[2019.10.22-23.44.56:709][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.22-23.44.56:709][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.22-23.44.56:770][  0]LogEngine: Initializing Engine...
+[2019.10.22-23.44.56:770][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-23.44.56:771][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.22-23.44.56:954][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.22-23.44.56:969][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.22-23.44.57:016][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.22-23.44.57:045][  0]LogInit: FAudioDevice initialized.
+[2019.10.22-23.44.57:045][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.22-23.44.57:152][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/skaffenb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.22-23.44.57:155][  0]LogInit: Texture streaming: Enabled
+[2019.10.22-23.44.57:174][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.22-23.44.57:218][  0]LogInit: Transaction tracking system initialized
+[2019.10.22-23.44.57:246][  0]BlueprintLog: New page: Editor Load
+[2019.10.22-23.44.57:321][  0]LocalizationService: Localization service is disabled
+[2019.10.22-23.44.57:379][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-23.44.57:380][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.22-23.44.57:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/' took 0.00s
+[2019.10.22-23.44.57:528][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.22-23.44.57:528][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.22-23.44.57:703][  0]SourceControl: Source control is disabled
+[2019.10.22-23.44.57:703][  0]Cmd: MAP LOAD FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-23.44.57:704][  0]LightingResults: New page: Lighting Build
+[2019.10.22-23.44.57:707][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.44.57:707][  0]MapCheck: New page: Map Check
+[2019.10.22-23.44.57:707][  0]LightingResults: New page: Lighting Build
+[2019.10.22-23.44.57:728][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.22-23.44.58:369][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.22-23.44.58:637][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2019.10.22-23.44.58:637][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2019.10.22-23.44.58:637][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.10.22-23.44.58:956][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Blah...
+[2019.10.22-23.44.59:571][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6540788 while cooking SoundWave /Game/Audio/Blah.Blah.
+[2019.10.22-23.44.59:573][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.22-23.44.59:629][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-23.44.59:678][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.10.22-23.44.59:678][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-23.44.59:678][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2019.10.22-23.44.59:678][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.976
+[2019.10.22-23.44.59:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.44.59:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.44.59:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.44.59:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.44.59:796][  0]LogCollectionManager: Loaded 0 collections in 0.001611 seconds
+[2019.10.22-23.44.59:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Collections/' took 0.00s
+[2019.10.22-23.44.59:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Developers/skaffenb/Collections/' took 0.00s
+[2019.10.22-23.44.59:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Collections/' took 0.00s
+[2019.10.22-23.44.59:802][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.22-23.44.59:809][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2863 classes and 680 folders.
+[2019.10.22-23.44.59:815][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-23.44.59:860][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-23.44.59:896][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.22-23.44.59:909][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.22-23.44.59:911][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.22-23.44.59:914][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.22-23.44.59:970][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-23.45.00:068][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-23.45.00:068][  0]LogLoad: (Engine Initialization) Total time: 8.27 seconds
+[2019.10.22-23.45.00:068][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.22-23.45.00:109][  0]LogAssetRegistry: Asset discovery search completed in 5.2933 seconds
+[2019.10.22-23.45.00:111][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000018 seconds (found 0 objects)
+[2019.10.22-23.45.00:111][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.10.22-23.45.00:113][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.22-23.45.00:140][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-23.45.01:090][102]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-23.49.56:321][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.49.56:412][538]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.22-23.49.56:420][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-23.49.56:421][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-23.49.56:444][538]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 3:49:56 PM)
+[2019.10.22-23.49.56:445][538]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.22-23.49.56:446][538]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.22-23.49.57:156][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.709898s)
+[2019.10.22-23.49.57:157][538]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.22-23.49.57:157][538]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2019.10.22-23.49.57:157][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.711280s)
+[2019.10.22-23.49.57:178][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.22-23.49.57:215][538]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.22-23.49.57:227][538]LogInit: FAudioDevice initialized.
+[2019.10.22-23.49.57:234][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.49.57:235][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.22-23.49.57:267][538]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-19.49.57
+[2019.10.22-23.49.57:278][538]LogWorld: Bringing up level for play took: 0.022981
+[2019.10.22-23.49.57:278][538]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.22-23.49.57:290][538]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.22-23.49.57:293][538]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.743
+[2019.10.22-23.49.57:294][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-23.49.57:322][539]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-23.50.19:048][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-23.50.19:049][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-23.50.19:049][139]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.22-23.50.19:057][139]LogSlate: Window 'Kaffenberger_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.22-23.50.19:061][139]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.50.19:067][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-23.50.19:067][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-23.50.19:097][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.22-23.50.19:149][144]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.22-23.52.15:421][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.10.22-23.52.16:259][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.52.16:431][180]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2019.10.22-23.52.16:697][180]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.22-23.52.17:508][180]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.22-23.52.17:580][181]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.22-23.53.06:535][944]LogSlate: Window 'BP_Door' being destroyed
+[2019.10.22-23.53.06:539][944]LogSlate: Window 'BP_Door' being destroyed
+[2019.10.22-23.53.06:541][944]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.53.07:892][ 89]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Target.BP_Target
+[2019.10.22-23.53.21:318][623]LogSlate: Window 'BP_Target' being destroyed
+[2019.10.22-23.53.21:322][623]LogSlate: Window 'BP_Target' being destroyed
+[2019.10.22-23.53.21:323][623]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.53.26:023][162]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2019.10.22-23.53.26:260][162]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap': Can't resolve asset name
+[2019.10.22-23.53.26:267][162]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-23.53.26:516][162]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Target.BP_Target
+[2019.10.22-23.53.28:820][380]LogSlate: Window 'BP_Target' being destroyed
+[2019.10.22-23.53.28:823][380]LogSlate: Window 'BP_Target' being destroyed
+[2019.10.22-23.53.28:824][380]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.53.28:856][380]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.22-23.53.28:856][380]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.53.28:891][380]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.22-23.53.28:891][380]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-23.54.08:947][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.54.21:269][673]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.22-23.54.28:519][424]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Button.BP_Button
+[2019.10.22-23.54.30:826][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.54.31:005][660]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Target.BP_Target
+[2019.10.22-23.54.41:079][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-23.54.45:162][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-23.54.59:276][692]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:276][692]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:286][693]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:286][693]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:286][693]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:295][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:296][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:296][694]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:306][695]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:306][695]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:306][695]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:316][696]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:316][696]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:316][696]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:327][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:327][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:327][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:337][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:337][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:337][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:346][699]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:347][699]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:347][699]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:357][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:358][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:358][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:367][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:367][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:367][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:377][702]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:377][702]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:377][702]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:387][703]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:387][703]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:387][703]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:397][704]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:397][704]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:397][704]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:407][705]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:407][705]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:407][705]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:417][706]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:417][706]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:417][706]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:427][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:427][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:427][707]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:437][708]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:437][708]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:437][708]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:447][709]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:447][709]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:447][709]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:458][710]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:458][710]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:458][710]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:468][711]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:468][711]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:468][711]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:478][712]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:478][712]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:478][712]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:488][713]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:488][713]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:488][713]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:498][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:498][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:498][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:508][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:508][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:508][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:516][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:517][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:517][716]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:527][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:527][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:527][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:542][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:542][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:542][718]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:553][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:553][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:553][719]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:563][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:563][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:563][720]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:573][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:574][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:574][721]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:584][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:584][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:584][722]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:593][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:594][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:594][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:603][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:603][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:603][724]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:613][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:613][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:613][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:622][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:622][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:622][726]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:632][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:632][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:632][727]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:642][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:643][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:643][728]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:651][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:652][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:652][729]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:661][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:661][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:661][730]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:671][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:671][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:671][731]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:680][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:680][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:680][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:690][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:690][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:690][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:700][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:700][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:700][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:709][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:710][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:710][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:719][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:719][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:719][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:729][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:729][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:729][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:739][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:739][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:739][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:749][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:749][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:749][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:759][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:759][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:759][740]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:769][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:769][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:769][741]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:779][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:780][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:780][742]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:790][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:790][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:790][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:800][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:800][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:800][744]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:810][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:810][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:810][745]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:820][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:821][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:821][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:831][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:831][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:831][747]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:841][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:841][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:841][748]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:851][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:851][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:851][749]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:861][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:861][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:862][750]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:871][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:871][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:871][751]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:881][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:881][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:881][752]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:891][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:891][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:891][753]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:901][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:901][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:901][754]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:911][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:911][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:911][755]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:920][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:921][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:921][756]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:929][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:929][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:930][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:939][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:939][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:939][758]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:949][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:949][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:949][759]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:959][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:959][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:959][760]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:969][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:969][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:969][761]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:979][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:979][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:979][762]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:988][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:989][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.54.59:989][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:000][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:000][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:000][764]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:010][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:010][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:010][765]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:020][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:020][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:020][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:030][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:030][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:030][767]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:040][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:041][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:041][768]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:051][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:051][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:051][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:061][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:062][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:062][770]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:071][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:071][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:071][771]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:082][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:082][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:082][772]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:092][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:092][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:092][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:102][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:102][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:517][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:517][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:527][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:528][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:528][817]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:537][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:538][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:538][818]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:547][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:548][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:548][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:568][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:568][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:568][821]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:578][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:578][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:578][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:588][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:588][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:589][823]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:600][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:600][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:600][824]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:610][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:610][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:610][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:621][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:622][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:622][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:632][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:632][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:632][827]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:644][828]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:644][828]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:644][828]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:654][829]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:655][829]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:655][829]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:665][830]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.00:665][830]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_Button_C_0.Button' 
+[2019.10.22-23.55.06:310][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-23.55.44:380][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-23.56.43:123][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.10.22-23.56.43:123][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.067
+[2019.10.22-23.56.43:124][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Button] ([1] browsable assets)...
+[2019.10.22-23.56.43:133][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Button.BP_Button]
+[2019.10.22-23.56.43:133][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Button]
+[2019.10.22-23.56.43:147][971]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/BP_Button_Auto1A0FB7E364A8C0D1C0C47BA85706C0E5A.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Autosaves/Game/Blueprints/BP_Button_Auto1.uasset'
+[2019.10.22-23.56.43:148][971]LogFileHelpers: Auto-saving content packages took 0.024
+[2019.10.22-23.59.21:058][329]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2019.10.23-00.00.05:283][237]BlueprintLog: New page: Compile BP_Door
+[2019.10.23-00.00.05:680][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.10.23-00.03.08:216][927]LogSlate: Took 0.023268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.23-00.06.43:233][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.23-00.06.48:991][742]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/FirstPersonExampleMap_Auto259A8839543EA8E4210DDCBBB4035855C.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.23-00.06.48:998][742]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 5.805
+[2019.10.23-00.06.48:998][742]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.805
+[2019.10.23-00.06.49:001][742]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door] ([1] browsable assets)...
+[2019.10.23-00.06.49:015][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door.BP_Door]
+[2019.10.23-00.06.49:015][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2019.10.23-00.06.49:040][742]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/BP_Door_Auto2F36B7F1046232E7EDF603AA84206B446.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Autosaves/Game/Blueprints/BP_Door_Auto2.uasset'
+[2019.10.23-00.06.49:041][742]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Button] ([1] browsable assets)...
+[2019.10.23-00.06.49:053][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Button.BP_Button]
+[2019.10.23-00.06.49:053][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Button]
+[2019.10.23-00.06.49:069][742]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/BP_Button_Auto24ED0BBB64C3432AB6DD3139073B4D8CB.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/Autosaves/Game/Blueprints/BP_Button_Auto2.uasset'
+[2019.10.23-00.06.49:070][742]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.10.23-00.08.21:397][857]LogRenderer: Reallocating scene render targets to support 1280x868 Format 10 NumSamples 1 (Frame:3684).
+[2019.10.23-00.12.15:069][373]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.12.15:460][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.10.23-00.14.23:048][923]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-00.15.27:904][541]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.10.23-00.15.55:101][348]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.15.55:494][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.10.23-00.16.34:858][589]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.10.23-00.16.48:663][ 49]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.16.49:049][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.10.23-00.18.40:640][774]LogEditorTransaction: Undo Move Node
+[2019.10.23-00.18.55:777][277]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.18.56:165][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.10.23-00.19.14:547][329]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.19.14:551][329]LogBlueprint: Warning: [Compiler BP_Button] Could not find a variable named "Open" in 'BP_Button_C'.
+Make sure 'BP_Button_C' has been compiled for  Get Open
+[2019.10.23-00.19.14:551][329]LogBlueprint: Warning: [Compiler BP_Button] Could not find a variable named "Open" in 'BP_Button_C'.
+Make sure 'BP_Button_C' has been compiled for  Set Open
+[2019.10.23-00.19.14:552][329]LogBlueprint: Error: [Compiler BP_Button] The property associated with  Open  could not be found in '/Game/Blueprints/BP_Button.BP_Button_C'
+[2019.10.23-00.19.14:552][329]LogBlueprint: Error: [Compiler BP_Button] The property associated with  Open  could not be found in '/Game/Blueprints/BP_Button.BP_Button_C'
+[2019.10.23-00.19.14:950][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.10.23-00.19.31:699][ 73]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2019.10.23-00.19.37:979][739]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.19.38:361][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.10.23-00.19.50:138][ 53]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-00.19.50:151][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.19.50:151][ 53]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.23-00.19.50:157][ 53]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2019.10.23-00.19.50:557][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.10.23-00.19.50:557][ 53]LogPlayLevel: PlayLevel: Blueprint regeneration took 406 ms (1 blueprints)
+[2019.10.23-00.19.50:557][ 53]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 4:19:50 PM)
+[2019.10.23-00.19.50:557][ 53]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.19.51:281][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.723634s)
+[2019.10.23-00.19.51:282][ 53]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-00.19.51:282][ 53]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2019.10.23-00.19.51:282][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.724973s)
+[2019.10.23-00.19.51:315][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.23-00.19.51:352][ 53]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-00.19.51:366][ 53]LogInit: FAudioDevice initialized.
+[2019.10.23-00.19.51:372][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.19.51:372][ 53]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.19.51:386][ 53]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-20.19.51
+[2019.10.23-00.19.51:386][ 53]LogWorld: Bringing up level for play took: 0.013036
+[2019.10.23-00.19.51:386][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.10.23-00.19.51:390][ 53]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.952
+[2019.10.23-00.19.51:395][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.19.52:578][177]LogSlate: Window 'Kaffenberger_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-00.19.52:583][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.19.52:583][177]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.19.52:584][177]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-00.19.52:589][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.19.52:590][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.19.52:636][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.23-00.19.52:677][181]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.23-00.20.02:703][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.20.07:393][808]Cmd: DELETE
+[2019.10.23-00.20.07:393][808]Cmd: ACTOR DELETE
+[2019.10.23-00.20.07:686][808]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.20.07:731][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.10.23-00.20.09:297][808]LogEditorActor: Deleted 1 Actors (1.904 secs)
+[2019.10.23-00.20.10:580][857]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2019.10.23-00.20.24:147][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.20.24:207][484]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-00.20.24:217][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.20.24:217][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.20.24:217][484]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 4:20:24 PM)
+[2019.10.23-00.20.24:217][484]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.20.24:887][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.669961s)
+[2019.10.23-00.20.24:888][484]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-00.20.24:888][484]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2019.10.23-00.20.24:888][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.671155s)
+[2019.10.23-00.20.24:928][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.23-00.20.24:974][484]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-00.20.24:986][484]LogInit: FAudioDevice initialized.
+[2019.10.23-00.20.24:993][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.20.24:993][484]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.20.25:016][484]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-20.20.25
+[2019.10.23-00.20.25:016][484]LogWorld: Bringing up level for play took: 0.022108
+[2019.10.23-00.20.25:016][484]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.10.23-00.20.25:020][484]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.583
+[2019.10.23-00.20.25:021][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.20.47:128][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.20.47:129][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.20.47:129][308]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.20.47:141][308]LogSlate: Window 'Kaffenberger_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-00.20.47:238][308]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-00.20.47:269][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.20.47:270][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.20.47:318][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.23-00.20.47:354][309]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.23-00.20.48:600][367]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.10.23-00.21.04:644][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.21.07:002][166]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button)
+[2019.10.23-00.21.08:863][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.21.20:511][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.21.20:578][ 28]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-00.21.20:586][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.21.20:586][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.21.20:586][ 28]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 4:21:20 PM)
+[2019.10.23-00.21.20:586][ 28]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.21.21:261][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.674181s)
+[2019.10.23-00.21.21:262][ 28]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-00.21.21:262][ 28]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2019.10.23-00.21.21:262][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.675506s)
+[2019.10.23-00.21.21:295][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.23-00.21.21:331][ 28]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-00.21.21:342][ 28]LogInit: FAudioDevice initialized.
+[2019.10.23-00.21.21:348][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.21.21:348][ 28]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.21.21:370][ 28]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-20.21.21
+[2019.10.23-00.21.21:371][ 28]LogWorld: Bringing up level for play took: 0.022217
+[2019.10.23-00.21.21:371][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.10.23-00.21.21:375][ 28]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.94
+[2019.10.23-00.21.21:375][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.21.47:253][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.21.47:254][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.21.47:254][ 49]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.21.47:264][ 49]LogSlate: Window 'Kaffenberger_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-00.21.47:283][ 49]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-00.21.47:316][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.21.47:316][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.21.47:364][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.10.23-00.21.47:375][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.23-00.21.52:875][309]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.10.23-00.22.20:925][583]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.23-00.22.21:873][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.23-00.22.21:879][693]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.23-00.22.21:919][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.23-00.22.27:569][693]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/FirstPersonExampleMapB85268EF42D3766E8005D0A23411E62E.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.23-00.22.27:591][693]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 5.706
+[2019.10.23-00.22.27:608][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2019.10.23-00.22.27:637][693]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/BP_Door7683340E4DC5D6E50ADCAA8EBBC1F2F2.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Blueprints/BP_Door.uasset'
+[2019.10.23-00.22.27:655][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Button" FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Blueprints/BP_Button.uasset" SILENT=true
+[2019.10.23-00.22.27:681][693]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/BP_Button7B9813334673DEC5BDA35B9211B011D8.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Blueprints/BP_Button.uasset'
+[2019.10.23-00.22.30:147][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.23.51:413][577]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.23.51:793][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.10.23-00.23.53:452][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.23.53:538][667]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-00.23.53:546][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.23.53:546][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.23.53:546][667]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 4:23:53 PM)
+[2019.10.23-00.23.53:546][667]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.23.54:215][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.668518s)
+[2019.10.23-00.23.54:216][667]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-00.23.54:216][667]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2019.10.23-00.23.54:216][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.669712s)
+[2019.10.23-00.23.54:252][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.23-00.23.54:288][667]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-00.23.54:301][667]LogInit: FAudioDevice initialized.
+[2019.10.23-00.23.54:307][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.23.54:308][667]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.23.54:328][667]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-20.23.54
+[2019.10.23-00.23.54:329][667]LogWorld: Bringing up level for play took: 0.021639
+[2019.10.23-00.23.54:329][667]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.23-00.23.54:334][667]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.092
+[2019.10.23-00.23.54:334][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.24.15:382][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.24.15:382][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.24.15:382][556]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.24.15:392][556]LogSlate: Window 'Kaffenberger_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-00.24.15:441][556]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-00.24.15:472][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.24.15:473][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.24.15:521][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.23-00.24.15:532][557]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.23-00.24.19:182][716]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.10.23-00.24.31:300][164]Cmd: TRANSACTION UNDO
+[2019.10.23-00.24.31:300][164]LogEditorTransaction: Undo Move Actors
+[2019.10.23-00.24.31:782][212]Cmd: TRANSACTION UNDO
+[2019.10.23-00.24.31:782][212]LogEditorTransaction: Undo Move Actors
+[2019.10.23-00.24.38:169][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.25.12:765][239]BlueprintLog: New page: Compile BP_Button
+[2019.10.23-00.25.13:148][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.10.23-00.25.14:720][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.25.14:798][327]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-00.25.14:806][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.25.14:806][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.25.14:806][327]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 4:25:14 PM)
+[2019.10.23-00.25.14:806][327]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.25.15:471][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.664159s)
+[2019.10.23-00.25.15:472][327]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-00.25.15:472][327]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2019.10.23-00.25.15:472][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.665204s)
+[2019.10.23-00.25.15:507][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.23-00.25.15:542][327]LogInit: XAudio2 using 'Speakers (2- USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-00.25.15:554][327]LogInit: FAudioDevice initialized.
+[2019.10.23-00.25.15:560][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.25.15:560][327]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.25.15:581][327]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-20.25.15
+[2019.10.23-00.25.15:581][327]LogWorld: Bringing up level for play took: 0.020643
+[2019.10.23-00.25.15:582][327]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.23-00.25.15:586][327]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.163
+[2019.10.23-00.25.15:587][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.25.34:375][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.25.34:376][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.25.34:376][  2]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-00.25.34:387][  2]LogSlate: Window 'Kaffenberger_Escape Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-00.25.34:410][  2]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-00.25.34:447][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.25.34:448][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-00.25.34:495][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.23-00.25.34:506][  3]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.23-00.25.37:809][170]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.23-00.25.38:713][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.23-00.25.38:718][275]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.23-00.25.38:755][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.23-00.25.44:423][275]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/FirstPersonExampleMap35143AA54E9140AE6ACB59868D508EBC.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.23-00.25.44:446][275]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 5.723
+[2019.10.23-00.25.44:473][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Button" FILE="../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Blueprints/BP_Button.uasset" SILENT=true
+[2019.10.23-00.25.44:497][275]LogSavePackage: Moving '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Saved/BP_Button25AB417F440157075BFF8BBCDD989559.tmp' to '../../../../../../Users/skaffenb/Documents/Unreal Projects/Kaffenberger_Escape/Content/Blueprints/BP_Button.uasset'
+[2019.10.23-00.25.50:279][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.25.58:109][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.26.03:616][280]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.23-00.26.15:783][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.26.48:717][305]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.582 s
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: 
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: Ensure condition failed: !bSrcDepthWrite || bDstDepthWrite [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Commands.cpp] [Line: 818]
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: Expected: SrcDepthWrite := false or DstDepthWrite := true. Actual: SrcDepthWrite := true or DstDepthWrite := false
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: Stack: 
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaed97a6ce UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaed9601c7 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaed950ab4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaed950bf4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb777b0 UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb772aa UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb77d3a UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb73966 UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb759a7 UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb777b0 UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb772aa UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb78373 UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffafbb8c75a UE4Editor-RHI.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaf021eaa1 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaf020aa1d UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaf020c45a UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaf020b7e0 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaefd6b359 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaefc9feb9 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaf011b229 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaf00f7301 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaff0e4e4a UE4Editor-Core.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaff0e51f3 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffb0d290021 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffb0d2985b4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaff539a8f UE4Editor-Core.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffaff52ffe1 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffb3c3b7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: [Callstack] 0x00007ffb3c50ce71 ntdll.dll!UnknownFunction []
+[2019.10.23-00.26.48:717][305]LogOutputDevice: Error: 
+[2019.10.23-00.26.48:717][305]LogStats:                SubmitErrorReport -  0.000 s
